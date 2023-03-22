@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () => {},
-        tooltip: 'Increment',
+        tooltip: '計算',
         child: const Icon(Icons.add),
       ),
     );
